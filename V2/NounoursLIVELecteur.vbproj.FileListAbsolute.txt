@@ -1,0 +1,16 @@
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\bin\Release\NounoursLIVELecteur.exe.config
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\bin\Release\NounoursLIVELecteur.exe
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\bin\Release\NounoursLIVELecteur.pdb
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\bin\Release\NounoursLIVELecteur.xml
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form1.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form2.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form3.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form4.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form5.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Resources.resources
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.vbproj.GenerateResource.Cache
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.exe
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.xml
+c:\users\angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.pdb
+C:\Users\Angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.vbprojResolveAssemblyReference.cache
+C:\Users\Angel\onedrive\documents\visual studio 2015\Projects\NounoursLIVELecteur\NounoursLIVELecteur\obj\Release\NounoursLIVELecteur.Form6.resources
